@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.aside-1{
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-right: 80px;
+}
+.logo{
+    font-size: 30px;
+    font-family: "pacifico", cursive;
+}
+.home{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    font-weight: 900;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.bar-1{
+    margin-top: 3px;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    font-family: "rubik",sans-serif;
+    font-size: 16px;
+    
+}
+.bot{
+    margin-top: 300px;
+}
+.threads{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    font-size: 16px;
+    font-family: "rubik",sans-serif;
+    align-items: center;
+}
+.more{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    font-size: 16px;
+    font-family: "rubik",sans-serif;
+    align-items: center;
+    margin-top: 30px;
+}
+.mid-1{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+    margin-left: 290px;
+}
+.profile{
+    display: flex;
+    flex-direction: column;
+    
+}
+.pic{
+    width: 60px;
+    height: 60px;
+    border: 2px solid red;
+    border-radius: 35px;
+
+}
+.name{
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    font-family: "rubik",sans-serif;
+    margin-top: 5px;
+}
+.hr-1{
+    opacity: 0.2;
+}
+.post{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    
+    gap: 25px;
+    margin-left: 390px;
+}
+.profile-1{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 20px;
+    
+}
+.propic{
+    border: 2px solid;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 24px;
+    flex-direction: row;
+
+}
+.proname{
+    margin-top: 11px;
+}
+.postpic{
+    margin: 0;
+    padding: 0;
+    margin-top: -10px;
+}
+.info-1{
+    margin-top: 11px;
+    margin-left: 250px;
+}
+.lcss{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    flex-direction: row;
+    margin-top: -15px;
+    
+}
+.lcs{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.comment{
+    transform: scaleX(-1);
+}
+.save{
+    margin-right: 80px;
+}
+.base{
+    display: flex;
+    flex-direction: row;
+}
+.like-count{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    font-weight: 900;
+    margin-top: -20px;
+}
+.caption{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    margin-top: -20px;
+}
+.trans{
+    font-size: 13px;
+    font-weight: 900;
+    margin-top: -20px;
+}
+.view-comment{
+    font-size: 13px;
+    opacity: 0.5;
+    margin-top: -20px;
+    font-family: "rubik",sans-serif;
+}
+.add-comment{
+    display: flex;
+    flex-direction: row;
+    opacity: 0,5;
+}
+.profile-1-1{
+    margin-top: 10px;
+}
+.profile-1-2{
+    border: 2px solid;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    align-items: center;
+    border-radius: 24px;
+
+}
+.profile-name{font-size: 14px;
+    font-family: "rubik",sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
